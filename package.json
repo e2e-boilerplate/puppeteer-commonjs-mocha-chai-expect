@@ -1,0 +1,35 @@
+{
+  "name": "puppeteer-commonjs-mocha-chai",
+  "version": "1.0.0",
+  "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs, mocha and chai.",
+  "scripts": {
+    "test": "npx mocha spec/search.spec.js",
+    "lint": "npx eslint --ext .js ./ --fix"
+  },
+  "keywords": [
+    "puppeteer",
+    "mocha",
+    "boilerplates",
+    "example"
+  ],
+  "author": "Girma Nigusse",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "husky": "^3.0.9",
+    "mocha": "^6.2.2",
+    "prettier": "^1.18.2",
+    "pretty-quick": "^2.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
