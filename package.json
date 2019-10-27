@@ -8,11 +8,13 @@
   },
   "keywords": [
     "puppeteer",
+    "commonjs",
     "mocha",
+    "chai",
     "boilerplates",
     "example"
   ],
-  "author": "Girma Nigusse",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
