@@ -13,7 +13,7 @@ describe("Sandbox", () => {
     page = await browser.newPage();
 
     await page
-      .goto("https://xgirma.github.io/sandbox/", {
+      .goto("https://e2e-boilerplates.github.io/sandbox/", {
         waitUntil: "networkidle0"
       })
       .catch(() => {});
