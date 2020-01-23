@@ -1,4 +1,4 @@
-name: NodeCI
+name: puppeteer-commonjs-mocha-chai
 
 on: [push]
 
