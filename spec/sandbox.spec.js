@@ -5,7 +5,8 @@ let page;
 let browser;
 
 describe("Sandbox", () => {
-  before(async () => {
+  before(async function fn() {
+    this.timeout(20000);
     browser = process.env.GITHUB_ACTIONS
       ? await puppeteer.launch()
       : await puppeteer.launch({ headless: false });
