@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs, mocha and chai.",
   "scripts": {
-    "test": "npx mocha spec/search.spec.js",
+    "test": "npx mocha spec/sandbox.spec.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
