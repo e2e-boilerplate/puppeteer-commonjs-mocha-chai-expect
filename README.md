@@ -1,12 +1,12 @@
-# Puppeteer: (commonjs, mocha, chai)
+# Puppeteer: (CommonJS, Mocha, Chai and Expect)
 
-[![GitHub Actions status | e2e-boilerplates/puppeteer-commonjs-mocha-chai](https://github.com/e2e-boilerplates/puppeteer-commonjs-mocha-chai/workflows/puppeteer-commonjs-mocha-chai/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-commonjs-mocha-chai/actions?workflow=puppeteer-commonjs-mocha-chai)
+[![GitHub Actions status | e2e-boilerplates/puppeteer-commonjs-mocha-chai-expect](https://github.com/e2e-boilerplates/puppeteer-commonjs-mocha-chai-expect/workflows/puppeteer-commonjs-mocha-chai-expect/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-commonjs-mocha-chai-expect/actions?workflow=puppeteer-commonjs-mocha-chai-expect)
 
 Puppeteer end-to-end test automation boilerplate project. Using commonjs, mocha and chai.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/puppeteer-commonjs-mocha-chai.git
-    cd puppeteer-commonjs-mocha-chai
+    git clone git@github.com:e2e-boilerplates/puppeteer-commonjs-mocha-chai-expect.git
+    cd puppeteer-commonjs-mocha-chai-expect
     npm install
     npm run test
