@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "description": "Puppeteer end-to-end test automation boilerplate, using CommonJS, Mocha, Chai and Expect.",
   "devDependencies": {
     "chai": "4.2.0",
@@ -21,14 +21,9 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "mocha",
     "puppeteer"
   ],
