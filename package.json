@@ -10,7 +10,6 @@
     "eslint-config-airbnb-base": "14.1.0",
     "eslint-config-prettier": "6.10.0",
     "eslint-plugin-import": "2.20.1",
-    "eslint-plugin-json": "2.1.1",
     "eslint-plugin-prettier": "3.1.2",
     "husky": "4.2.3",
     "mocha": "7.1.1",
@@ -46,5 +45,6 @@
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx mocha spec/*.spec.js"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {}
 }
