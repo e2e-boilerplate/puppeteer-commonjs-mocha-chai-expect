@@ -27,16 +27,17 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "commonjs",
+    "expect",
+    "mocha",
+    "puppeteer",
     "e2e",
     "e2e tests",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "mocha",
-    "puppeteer"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
