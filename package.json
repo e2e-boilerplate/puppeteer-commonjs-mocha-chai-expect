@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect/issues"
   },
   "dependencies": {
-    "chai": "4.3.3",
+    "chai": "4.3.4",
     "mocha": "8.3.2",
     "puppeteer": "5.5.0"
   },
