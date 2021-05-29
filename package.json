@@ -6,7 +6,7 @@
   "dependencies": {
     "chai": "4.3.4",
     "mocha": "8.4.0",
-    "puppeteer": "5.5.0"
+    "puppeteer": "9.1.1"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using Commonjs, Mocha, Chai and Expect.",
   "devDependencies": {
